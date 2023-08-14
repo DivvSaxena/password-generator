@@ -1,6 +1,6 @@
 # Password Generator
 
-<img src="images/homepage.png" width="500px">
+<img src="images/home.jpg" width="500px">
 
 The Password Generator is a simple and user-friendly web-based tool that allows you to generate strong and random passwords with just a click. This tool is designed to enhance your online security by providing you with robust passwords that are difficult to crack. Additionally, a new feature has been added where you can easily copy the generated password to your clipboard with a popup message.
 
@@ -22,7 +22,7 @@ The Password Generator is a simple and user-friendly web-based tool that allows 
 
 ## Preview
 
-![Password Generator Preview](images/section.png)
+![Password Generator Preview](images/sectionone.jpg)
 
 ## Technologies Used
 
