@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    background: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+    
+}
+#h-one{
+    margin-bottom: 0px;
+    color: white;
+    font-size: 40px;
+    font-family: 'Karla', sans-serif;
+}
+#h-two{
+    color: #4ADF86;
+    font-size: 40px;
+    margin-top: 0px;
+    font-family: 'Karla', sans-serif;
+}
+p{
+    color: #D5D4D8;
+    font-size: 28px;
+}
+button{
+    margin: 45px 0;
+    padding: 10px;
+    background: #10B981;
+    color: #FFFFFF;
+    border: none;
+    font-size: 24px;
+}
+.container{
+    border: 2px solid #FFFFFF;
+    padding: 150px;
+}
+#passone{
+    background-color: #273549;
+    width: auto;
+    margin-right: 20px;
+    font-size: 30px;
+    padding: 5px;
+}
+#passtwo{
+    background-color: #273549;
+    width: auto;
+    font-size: 30px;
+    padding: 5px;
+}
+#passthree{
+    background-color: #273549;
+    width: auto;
+    margin-right: 20px;
+    font-size: 30px;
+    padding: 5px;
+}
+#passfour{
+    background-color: #273549;
+    width: auto;
+    font-size: 30px;
+    padding: 5px;
+}
+.passwords{
+    display: flex;
+    
+}
